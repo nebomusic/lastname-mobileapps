@@ -1,0 +1,7 @@
+INDEX VERSION 1.126+C:\Users\michaudc\OneDrive\Repositories\lastname-mobileapps\.metadata\.plugins\org.eclipse.jdt.core
+3964637169.index
+2146345248.index
+3346552135.index
+2498250528.index
+289883891.index
+208208633.index
